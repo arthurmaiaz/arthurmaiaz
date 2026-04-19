@@ -7,34 +7,9 @@ I am passionate about technology and software development, with a primary focus 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurmaia1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurmaiaz/)
-[!Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/arthurmaiaz?tab=repositories)
-"
-    </a>
-    <a href="">
-        <img 
-            alt="https://www.instagram.com/arthurmaiaz/" 
-            title="Meu Instagram" 
-            src="https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram
-            "
-        />
-    </a> 
-    <a href="https://github.com/arthurmaiaz?tab=repositories">
-        <img 
-            alt="Meu Repositorio" 
-            title="Meu Repositorio" 
-            src="https://custom-icon-badges.demolab.com/github/stars/arthurmaiaz?color=55960c&style=for-the-badge&labelColor=488207&logo=book&label=repositorio"
-        />
-    </a>
-    <a href="https://github.com/arthurmaiaz">
-        <img 
-            alt="Perfil" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/arthurmaiaz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=ME SIGA&logoColor=white"
-        />
-    </a>
-</p>
-
----
+[!Repositorio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/arthurmaiaz?tab=repositories)
+<br/>
+<br/>
 
 ### 🚀 Main technologies
 <img 
