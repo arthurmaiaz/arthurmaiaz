@@ -1,6 +1,6 @@
 # Arthur Maia
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedor Backend`**
 
 Hello world, my name is Arthur. Welcome!
 I am passionate about technology and software development, with a primary focus on building APIs, scalable systems, and efficient backend solutions.
