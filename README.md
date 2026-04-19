@@ -5,17 +5,10 @@
 Hello world, my name is Arthur. Welcome!
 I am passionate about technology and software development, with a primary focus on building APIs, scalable systems, and efficient backend solutions.
 
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/arthurmaia1/?skipRedirect=true">
-        <img 
-            alt="LinkedIn" 
-            title="Follow on LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-            "
-            "
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/arthurmaia1/?skipRedirect=true)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurmaiaz/)
+[!Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/arthurmaiaz?tab=repositories)
 "
-        />
     </a>
     <a href="">
         <img 
