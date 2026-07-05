@@ -1,56 +1,43 @@
 # Arthur Maia
 
-**`Desenvolvedor Backend`**
+**`Cybersecurity Enthusiast | Red Team | Penetration Tester`**
 
 Hello world, my name is Arthur. Welcome!
-I am passionate about technology and software development, with a primary focus on building APIs, scalable systems, and efficient backend solutions.
+I am passionate about information security and offensive tactics, with a primary focus on penetration testing, vulnerability analysis, and Red Team operations. I leverage my software development background to understand systems under the hood, write custom scripts, and automate security assessments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurmaia1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurmaiaz/)
 [![Repositorio](https://img.shields.io/badge/Repositorio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurmaiaz?tab=repositories)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurmaiaz)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/arthurmaiaz)
 <br/>
 <br/>
 
-### 🚀 Main technologies
+### 🚀 Main technologies & Languages
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-<img
-    align="left"
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-<img
-    align="left"
-    alt="Next"
-    title="Next"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Bash" 
+    title="Bash"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="C" 
+    title="C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
 <img 
     align="left" 
     alt="GO" 
@@ -61,16 +48,41 @@ I am passionate about technology and software development, with a primary focus 
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kali Linux" 
+    title="Kali Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" 
 />
 
 <br/>
+<br/>
 
-### Also experienced with
+### Also experienced with (Web Pentesting Context)
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -79,30 +91,22 @@ I am passionate about technology and software development, with a primary focus 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
 <br/>
 <br/>
 
-### Workflows & Tools
+### Workflows, Environments & Tools
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
 <img
     align="left"
-    alt="Next"
-    title="Next"
+    alt="Git"
+    title="Git"
     width="30px"
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
