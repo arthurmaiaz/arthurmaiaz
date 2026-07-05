@@ -119,14 +119,6 @@ I am passionate about information security and offensive tactics, with a primary
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
-<img 
-    align="left" 
-    alt="VScode"
-    title="VScode" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
 
 <br/>
 <br/>
