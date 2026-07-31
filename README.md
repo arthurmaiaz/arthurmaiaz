@@ -8,7 +8,7 @@ I am passionate about information security and offensive tactics, with a primary
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurmaia1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurmaiaz/)
 [![Repositorio](https://img.shields.io/badge/Repositorio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurmaiaz?tab=repositories)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurmaiaz)
+[![CTF-Write-Up](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurmaiaz/CTF-Write-ups)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Moosee)
 <br/>
 <br/>
