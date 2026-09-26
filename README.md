@@ -36,13 +36,13 @@ I'm **moosee**, a developer focused on **Cybersecurity and Offensive Security**.
 
 My main interests are:
 
-* 🔴 Penetration Testing
-* ⚔️ Red Team Operations
-* 🌐 Web Application Security
-* 🔎 Vulnerability Analysis
-* 🧪 CTFs & Security Labs
-* 🤖 Security Automation
-* 🐧 Linux & Security Tooling
+*  Penetration Testing
+*  Red Team Operations
+*  Web Application Security
+*  Vulnerability Analysis
+*  CTFs & Security Labs
+*  Security Automation
+*  Linux & Security Tooling
 
 I also have a software development background, which allows me to understand applications from the inside, develop custom scripts and automate security-related tasks.
 
@@ -87,7 +87,6 @@ I also have a software development background, which allows me to understand app
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45"/>
 
 </div>
 
@@ -97,7 +96,6 @@ Bash         █████████████████     Linux / Aut
 C            ███████████████       Low-level / Security
 Go           ████████████          Tooling / Backend
 JavaScript   ███████████████       Web Security
-PHP          ███████████           Web Applications
 ```
 
 ---
