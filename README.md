@@ -264,6 +264,6 @@ Never stop learning.
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-`© moosee · Cybersecurity / Software Development`
+`© moosee · Cybersecurity`
 
 </div>
